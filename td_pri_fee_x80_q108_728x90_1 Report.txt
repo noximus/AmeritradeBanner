@@ -1,0 +1,137 @@
+td_pri_fee_x80_q108_728x90_1.swf Movie Report
+----------------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          18482          18482    Scene 1 (AS 2.0 Classes Export Frame)
+      2              1          18483    
+      3              1          18484    
+      4              1          18485    
+      5              1          18486    
+      6              1          18487    
+      7              1          18488    
+      8              1          18489    
+      9              1          18490    
+     10              1          18491    
+     11              1          18492    
+     12              1          18493    
+     13              1          18494    
+     14              1          18495    
+     15             92          18587    
+     16              1          18588    
+     17              1          18589    
+     18              1          18590    
+     19              1          18591    
+     20              1          18592    
+     21              1          18593    
+     22              1          18594    
+     23              1          18595    
+     24              6          18601    
+     25              1          18602    
+     26              1          18603    
+     27              1          18604    
+     28              1          18605    
+     29              1          18606    
+     30              7          18613    
+     31              1          18614    
+     32              1          18615    
+     33              1          18616    
+     34              1          18617    
+     35              1          18618    
+     36              1          18619    
+     37              1          18620    
+     38              1          18621    
+     39              1          18622    
+     40              1          18623    
+     41              1          18624    
+     42              1          18625    
+     43              1          18626    
+     44              1          18627    
+     45              1          18628    
+     46              1          18629    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                    87
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+crushanime                            29             0                     0
+gradbg                               100             0                     0
+shade                                 74             0                     0
+FINAL                                  0             0                     0
+smoker                                 0             0                     5
+smoker2                                0             0                     0
+smoke2                                 0             0                     0
+parts                                  0             0                     2
+smoke                                  0             0                     0
+fees                                1152             0                     2
+animation                              0             0                   239
+thehammer                              0             0                     0
+pipe                                   0             0                     0
+wires                                684             0                     1
+Symbol 22                              0             0                     0
+Symbol 3                               0             0                     0
+Symbol 6                               0             0                     0
+Symbol 5                               0             0                     0
+Symbol 7                               0             0                     0
+t3                                     0             0                     0
+Symbol 13                              0             0                     0
+Symbol 10                              0             0                     0
+green_bullert                          0             0                     0
+green_block                            0             0                     0
+Symbol 15                              0             0                     0
+Symbol 11                              0             0                     0
+Symbol 14                              0             0                     0
+Symbol 12                              0             0                     0
+logo                                   0             0                     0
+text_4_A                               0             0                     0
+line                                   0             0                     0
+Symbol 17                              0             0                     0
+Symbol 21                              0             0                     0
+Symbol 1                               0             0                     0
+Symbol 19                              0             0                     0
+Symbol 18                              0             0                     0
+Symbol 20                              0             0                     0
+text_4_B                               0             0                     0
+_hit                                   0             0                     0
+dropshadow                             0             0                     0
+background_white                       0             0                     0
+white_background_gradient              0             0                     0
+
+
+Tweened Shapes: 392 bytes
+
+ActionScript Bytes    Location
+------------------    --------
+                 0    Scene 1:ac:1
+                 1    fees:Layer 2:1
+                 1    fees:Layer 2:4
+                 1    animation:Layer 5:1
+                 1    wires:Layer 7:1
+                32    animation:Layer 5:2
+                40    animation:Layer 5:50
+                23    animation:Layer 5:53
+                37    animation:Layer 5:56
+                73    animation:Layer 5:73
+                33    animation:Layer 5:102
+                 1    parts:Layer 4:1
+                 5    smoker:Layer 3:24
+                 1    parts:Layer 4:37
+                86    Scene 1:ac:15
+                 0    Scene 1:ac:24
+                 1    Scene 1:ac:30
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+bg.jpg                          1534      236160   Imported JPEG=102
+fees.png                        3513       25132   Lossless
+wirespart.png                   1495       20252   JPEG Quality=16
+pieppes.png                     1129       38700   JPEG Quality=15
+smasher.png                      917       26228   JPEG Quality=20
+smoke1.png                      1544       13992   JPEG Quality=5
+parts.png                        778       12800   JPEG Quality=20
+
+
+
+
